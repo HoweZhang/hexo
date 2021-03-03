@@ -1,0 +1,75 @@
+# Header
+menu:
+  # Home: /
+  # Archives: /archives
+  首页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  # 友情链接: /link/ || fas fa-link
+
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+gauges_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+
+social:
+  fab fa-github: https://github.com/HoweZhang || Github
+  fas fa-envelope: mailto:2356629947@qq.com || Email
+
+  # A simple 404 page
+error_404:
+  enable: true
+  subtitle: "頁面沒有找到"
+  background: 
+
+index_img: 'linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%)'
+
+avatar:
+  img: https://avatars.githubusercontent.com/u/13114024?s=460&u=c964c424f7d454fc10ccf9d4fcc7de808d64adef&v=4
+
+aside:
+  enable: true
+  position: left
+  card_author: 
+    enable: true
+    description: '学如逆水行舟'
+    button:
+      enable: false
+  card_announcement:
+    enable: false
+
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true

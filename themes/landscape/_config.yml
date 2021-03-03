@@ -1,7 +1,13 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  # Home: /
+  # Archives: /archives
+  首页: /
+  时间轴: /archives
+  标签: /tags
+  分类: /categories
+  友情链接: /link
+
 rss: /atom.xml
 
 # Content
@@ -35,3 +41,8 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+
+social:
+  fab fa-github: https://github.com/HoweZhang || Github
+  fas fa-envelope: mailto:2356629947@qq.com || Email
