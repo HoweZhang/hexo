@@ -73,3 +73,5 @@ busuanzi:
   site_uv: true
   site_pv: true
   page_pv: true
+
+highlight_theme: pale night
