@@ -4,6 +4,8 @@ date: 2021-03-04
 tags: 'vue支付'
 top_img: 'linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%)'
 cover: false
+copyright_url: https://hase.org.cn/2021/03/04/mybo2/
+copyright_info: 转载请注明来自 Hase！
 ---
 
 这里记录了使用vue技术栈，包括微信、微信小程序、支付宝、stripe、蓝新、eghl等支付业务的代码

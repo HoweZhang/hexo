@@ -4,6 +4,8 @@ date: 2021-03-03 14:47:45
 tags: '个人感想'
 top_img: 'linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%)'
 cover: false
+copyright_url: https://hase.org.cn/2021/03/04/mybo1/
+copyright_info: 转载请注明来自 Hase！
 ---
 
 嗨！我是Hase，一个从扣图仔学到切图仔的前端。
